@@ -1,6 +1,6 @@
 # Capstone-project
 
-In this project skills and knowledge which were developed throughout the Cloud DevOps Nanodegree program. These include:
+This project include:
 
     Working in AWS
     Using Jenkins to implement Continuous Integration and Continuous Deployment
