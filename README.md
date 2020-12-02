@@ -15,7 +15,7 @@
 
 ## Steps
 - Using CloudFormation IaC deploy (EKS Cluster and Jenkins-machine) from infrastructure dir
-- After CF complete you can configure Jenkins from console and don't for get to add credentials for 
+- After CF complete you can configure Jenkins from console and don't forget to add credentials for 
  
 
  ```bash
