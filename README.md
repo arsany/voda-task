@@ -20,7 +20,7 @@
 aws cloudformation create-stack --stack-name voda-task --template-body file://amazon-eks.yaml --capabilities CAPABILITY_NAMED_IAM 
 aws cloudformation create-stack --stack-name jenkins-machine --template-body file://jenkins-machine.yaml --capabilities CAPABILITY_NAMED_IAM
 ```
-- After CF complete you can configure Jenkins from console and don't for get to add credentials for 
+- After CF complete you can configure Jenkins from console and don't forget to add credentials for 
  
 
  ```bash
